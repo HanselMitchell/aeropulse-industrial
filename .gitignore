@@ -1,0 +1,11 @@
+# Flutter ignores
+.DS_Store
+.dart_tool/
+.pub/
+build/
+.packages
+pubspec.lock
+
+# PlatformIO / C++ ignores
+.pio/
+.vscode/
